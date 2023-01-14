@@ -1,8 +1,8 @@
 # Malachi - Full Stack Developer 🚀🔥
 
-I am a self-taught, passionate Full Stack developer from Israel  🇮🇱.
+Self-taught, passionate Full Stack developer from Israel  🇮🇱.
 
-I have experience with a variety of programming languages and frameworks, including JavaScript, Node.js, React, and Java 💻. I love creating beautiful and functional web applications and backend services 🎉.
+I know my way around a bunch of programming languages and tools, like JavaScript, React, and Java. I love making awesome stuff that look good and work well. Always looking to expand my skills and knowledge.
 
 ## Skills 🎓
 - JavaScript & TypeScript 💎
