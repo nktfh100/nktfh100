@@ -2,7 +2,7 @@
 
 Self-taught, passionate Full Stack developer from Israel  🇮🇱.
 
-I know my way around a bunch of programming languages and tools, like JavaScript, React, and Java. I love making awesome stuff that look good and work well. Always looking to expand my skills and knowledge.
+I love making awesome stuff that look good and work well. Always looking to expand my skills and knowledge.
 
 ## Skills 🎓
 - JavaScript & TypeScript 💎
@@ -17,7 +17,6 @@ I know my way around a bunch of programming languages and tools, like JavaScript
 - Go ❤️
 - Microservices development 🛠️
 - Containerization with Docker 🐳
-- Kubernetes 🌟
 
 ## Projects 🚧
 - [Super Gobblet Online](https://github.com/nktfh100/super-gobblet-online) - A tic tac toe style multiplayer app made with React Native and Express.js 🕹️
