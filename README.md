@@ -14,6 +14,7 @@ I love making awesome stuff that look good and work well. Always looking to expa
 - MySQL & MongoDB 💾
 
 ## Currently learning 🚀
+- Neovim ⌨️
 - Go ❤️
 - Containerization with Docker 🐳
 - Firebase 🔥
