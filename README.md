@@ -11,12 +11,8 @@ I love making awesome stuff that look good and work well. Always looking to expa
 - Express.js ⚡️
 - HTML & CSS 🎨
 - Git 🔥
-- MySQL & MongoDB 💾
-
-## Currently learning 🚀
-- Neovim ⌨️
-- Go ❤️
 - Docker 🐳
+- MySQL & MongoDB 💾
 
 ## Projects 🚧
 - [Super Gobblet Online](https://github.com/nktfh100/super-gobblet-online) - A tic tac toe style multiplayer app made with React Native and Express.js 🕹️
