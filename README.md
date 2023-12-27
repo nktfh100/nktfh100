@@ -20,3 +20,4 @@ I love making awesome stuff that look good and work well. Always looking to expa
 
 ## Contact 📱
 - Email: me@nktfh100.com 📧
+- Discord: nktfh100 👾
