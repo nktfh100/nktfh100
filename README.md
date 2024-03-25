@@ -16,6 +16,7 @@ I love making awesome stuff that look good and work well. Always looking to expa
 
 ## Projects 🚧
 - [Stremio Simkl Watchlists](https://github.com/nktfh100/stremio-simkl) - Stremio addon to display your Simkl Watchlists. 📺
+- [Campass](https://github.com/nktfh100/campass) - A system that simplifies the process of inviting and admitting guests to various events. 🎟️
 - [Super Gobblet Online](https://github.com/nktfh100/super-gobblet-online) - A tic tac toe style multiplayer app made with React Native and Express.js 🕹️
 
 ## Contact 📱
