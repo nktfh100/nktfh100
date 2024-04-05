@@ -8,7 +8,7 @@ I love making awesome stuff that look good and work well. Always looking to expa
 - JavaScript & TypeScript 💎
 - Java 💻
 - React & React Native ⚛️
-- Express.js ⚡️
+- Express.js & Fastify ⚡️
 - HTML & CSS 🎨
 - Git 🔥
 - Docker 🐳
