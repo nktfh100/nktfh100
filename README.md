@@ -20,6 +20,7 @@ I am a self-learner who loves to learn new things, and always looking to improve
 ## Projects 🚧
 - [Stremio Simkl Watchlists](https://github.com/nktfh100/stremio-simkl) - Stremio addon to display your Simkl Watchlists. 📺
 - [Campass](https://github.com/nktfh100/campass) - A system that simplifies the process of inviting and admitting guests to various events. 🎟️
+- [Gool Downloader](https://github.com/nktfh100/gool-downloader) - Python script that downloads courses from gool.co.il 🐍
 - [Super Gobblet Online](https://github.com/nktfh100/super-gobblet-online) - A tic tac toe style multiplayer app made with React Native and Express.js 🕹️
 
 ## Contact 📱
