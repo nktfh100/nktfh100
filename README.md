@@ -1,4 +1,5 @@
 # Malachi - Full Stack Developer 🚀🔥
+[![wakatime](https://wakatime.com/badge/user/112ec769-e669-4b78-a46f-cf4343930741.svg)](https://wakatime.com/@112ec769-e669-4b78-a46f-cf4343930741)
 
 A self-taught, passionate Full Stack developer from Israel 🇮🇱
 
