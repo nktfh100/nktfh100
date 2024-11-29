@@ -3,7 +3,7 @@
 
 A self-taught, passionate Full Stack developer from Israel 🇮🇱
 
-I have been programming since the age of 13, and building with React since 2019.
+I have been coding since the age of 13 and building with React since 2019, I use Linux (NixOS) as my daily driver, and Neovim for my IDE.
 
 I am a self-learner who loves to learn new things, and always looking to improve my skills and knowledge.
 
