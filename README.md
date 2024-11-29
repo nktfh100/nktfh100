@@ -3,24 +3,21 @@
 
 A self-taught, passionate Full Stack developer from Israel 🇮🇱
 
-I have been programming since the age of 12 (started with scratch)
+I have been programming since the age of 13, and building with React since 2019.
 
 I am a self-learner who loves to learn new things, and always looking to improve my skills and knowledge.
 
 ## Skills 🎓
-- JavaScript & TypeScript 💎
-- Java 💻
+- TypeScript & JavaScript 💎
 - React & React Native ⚛️
 - Express.js & Fastify ⚡️
+- Python & Java 💻
 - HTML & CSS 🎨
 - Git 🔥
 - Docker 🐳
 - MySQL & MongoDB 💾
 
-## Contact 📱
-- Email: me@malachi.io 📧
-- Discord: nktfh100 👾
-
+## This Week I Spent My Time On 📊
 <!--START_SECTION:waka-->
 
 ```txt
@@ -32,3 +29,9 @@ Other           20 mins         ▒░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+
+## Connect With Me 📱
+- Email: me@malachi.io 📧
+- Discord: nktfh100 👾
+
