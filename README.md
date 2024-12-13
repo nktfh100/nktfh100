@@ -21,11 +21,11 @@ I am a self-learner who loves to learn new things, and always looking to improve
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript      20 hrs 55 mins  █████████████▓░░░░░░░░░░░   55.16 %
-Go              10 hrs 26 mins  ███████░░░░░░░░░░░░░░░░░░   27.54 %
-Verse           3 hrs 29 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
-Lua             1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-Docker          31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+TypeScript      21 hrs          ██████████████░░░░░░░░░░░   55.87 %
+Go              8 hrs 13 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.87 %
+Verse           5 hrs 19 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.17 %
+Lua             1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+Docker          31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
