@@ -8,14 +8,14 @@ I have been coding since the age of 13 and building with React since 2019, I use
 I am a self-learner who loves to learn new things, and always looking to improve my skills and knowledge.
 
 ## Skills 🎓
-- TypeScript & JavaScript 💎
-- React & React Native ⚛️
+- JavaScript & TypeScript 💎
+- React & Next.js ⚛️
 - Express.js & Fastify ⚡️
-- Python & Java 💻
 - HTML & CSS 🎨
 - Git 🔥
 - Docker 🐳
 - MySQL & MongoDB 💾
+- Linux
 
 ## This Week I Spent My Time On 📊
 <!--START_SECTION:waka-->
