@@ -29,9 +29,3 @@ JavaScript      23 mins         ▒░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-
-## Connect With Me 📱
-- Email: me@malachi.io 📧
-- Discord: nktfh100 👾
-
