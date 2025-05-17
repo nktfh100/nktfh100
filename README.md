@@ -15,7 +15,7 @@ I am a self-learner who loves to learn new things, and always looking to improve
 - Git 🔥
 - Docker 🐳
 - MySQL & MongoDB 💾
-- Linux
+- Linux 👨‍💻
 
 ## This Week I Spent My Time On 📊
 <!--START_SECTION:waka-->
