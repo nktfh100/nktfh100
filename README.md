@@ -21,11 +21,11 @@ I am a self-learner who loves to learn new things, and always looking to improve
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   10 hrs 32 mins  ███████████████████████▓░   94.97 %
-Prisma       27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-Bash         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+TypeScript   10 hrs 46 mins  ██████████████████████▓░░   90.06 %
+Prisma       27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+Bash         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+YAML         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
