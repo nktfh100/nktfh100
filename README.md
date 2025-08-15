@@ -21,9 +21,7 @@ I am a self-learner who loves to learn new things, and always looking to improve
 <!--START_SECTION:waka-->
 
 ```txt
-XML        31 mins         ███████████████████░░░░░░   75.88 %
-Java       8 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.08 %
-Markdown   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
