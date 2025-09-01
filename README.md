@@ -21,11 +21,11 @@ I am a self-learner who loves to learn new things, and always looking to improve
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript      23 hrs 53 mins  ██████████████████████░░░   88.41 %
-Java            35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-Markdown        19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-conf            19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-gitrebase       18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+TypeScript      19 hrs 10 mins  █████████████████████░░░░   84.51 %
+Markdown        49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+Java            35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+conf            19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+gitrebase       18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
