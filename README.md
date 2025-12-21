@@ -25,9 +25,9 @@ I'm always happy to connect with other developers and tech professionals to shar
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript      9 hrs 51 mins   ██████████████████████░░░   88.25 %
-Prisma          1 hr 9 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
-CSS             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+TypeScript      9 hrs 51 mins   ██████████████████████░░░   87.93 %
+Prisma          1 hr 9 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
+CSS             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 JavaScript      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 Docker          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
