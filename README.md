@@ -25,11 +25,11 @@ I'm always happy to connect with other developers and tech professionals to shar
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript      8 hrs 22 mins   ████████████████████▒░░░░   81.30 %
-SQL             45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
-Other           42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
-Nix             13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-Prisma          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+TypeScript      11 hrs 18 mins  ████████████████████▒░░░░   81.81 %
+SQL             56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
+Other           42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+Prisma          29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+Nix             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 ```
 
 <!--END_SECTION:waka-->
