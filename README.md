@@ -25,11 +25,11 @@ I'm always happy to connect with other developers and tech professionals to shar
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        18 hrs 32 mins  ████████████████░░░░░░░░░   64.02 %
-Markdown          2 hrs 52 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
-JSON              1 hr 55 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
-YAML              1 hr 46 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
-Other             45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+TypeScript        23 hrs 15 mins  ████████████████░░░░░░░░░   63.79 %
+Markdown          4 hrs 14 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+JSON              2 hrs 22 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+YAML              1 hr 56 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+Docker            1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
 ```
 
 <!--END_SECTION:waka-->
