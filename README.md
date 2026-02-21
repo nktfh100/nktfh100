@@ -21,7 +21,6 @@ I'm always happy to connect with other developers and tech professionals to shar
 - Linux 👨‍💻
 - CI/CD (GitHub Actions)
 
-## This Week I Spent My Time On 📊
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
