@@ -36,22 +36,22 @@ I'm always happy to connect with other developers and tech professionals to shar
 
 ```text
 💬 Programming Languages: 
-TypeScript               25 hrs 9 mins       ████████████████░░░░░░░░░   65.75 % 
-Markdown                 6 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-JSON                     2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-Lua                      1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-Other                    28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+TypeScript               22 hrs 55 mins      ██████████████████░░░░░░░   70.80 % 
+Markdown                 4 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+JSON                     2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+Lua                      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Other                    28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 🔥 Editors: 
-Neovim                   13 hrs 48 mins      █████████░░░░░░░░░░░░░░░░   36.08 % 
-OpenCode                 13 hrs 1 min        █████████░░░░░░░░░░░░░░░░   34.03 % 
-VS Code                  6 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Antigravity              5 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Neovim                   12 hrs 8 mins       █████████░░░░░░░░░░░░░░░░   37.50 % 
+OpenCode                 11 hrs 2 mins       █████████░░░░░░░░░░░░░░░░   34.12 % 
+Antigravity              5 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+VS Code                  4 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
 
 💻 Operating System: 
-Linux                    38 hrs 16 mins      █████████████████████████   100.00 % 
+Linux                    32 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/03/2026 00:34:33 UTC
+ Last Updated on 07/03/2026 00:27:19 UTC
 <!--END_SECTION:waka-->
