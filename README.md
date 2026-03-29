@@ -27,7 +27,7 @@ I'm always happy to connect with other developers and tech professionals to shar
 ```text
 🌞 Morning                13773 commits       ███████░░░░░░░░░░░░░░░░░░   27.86 % 
 🌆 Daytime                28879 commits       ███████████████░░░░░░░░░░   58.42 % 
-🌃 Evening                6151 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+🌃 Evening                6152 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
 🌙 Night                  628 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 ```
 
@@ -36,21 +36,21 @@ I'm always happy to connect with other developers and tech professionals to shar
 
 ```text
 💬 Programming Languages: 
-TypeScript               8 hrs 45 mins       ████████████████████░░░░░   81.01 % 
-Docker                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-Bash                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-Lua                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+TypeScript               10 hrs 54 mins      ████████████████████░░░░░   78.75 % 
+Docker                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Markdown                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 
 🔥 Editors: 
-OpenCode                 5 hrs 47 mins       █████████████░░░░░░░░░░░░   53.52 % 
-Neovim                   3 hrs               ███████░░░░░░░░░░░░░░░░░░   27.91 % 
-VS Code                  2 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+OpenCode                 7 hrs 22 mins       █████████████░░░░░░░░░░░░   53.26 % 
+VS Code                  3 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   25.99 % 
+Neovim                   2 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
 
 💻 Operating System: 
-Linux                    10 hrs 48 mins      █████████████████████████   100.00 % 
+Linux                    13 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/03/2026 00:32:09 UTC
+ Last Updated on 29/03/2026 00:32:26 UTC
 <!--END_SECTION:waka-->
