@@ -36,22 +36,22 @@ I'm always happy to connect with other developers and tech professionals to shar
 
 ```text
 💬 Programming Languages: 
-TypeScript               16 hrs 52 mins      ████████████████████░░░░░   78.75 % 
-Markdown                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-JSON                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-Docker                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+TypeScript               15 hrs 16 mins      ████████████████████░░░░░   79.71 % 
+JSON                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Markdown                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+YAML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 🔥 Editors: 
-OpenCode                 8 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   39.63 % 
-VS Code                  6 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   29.21 % 
-Unknown Editor           5 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
-Neovim                   1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+VS Code                  6 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   34.93 % 
+OpenCode                 6 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   34.42 % 
+Unknown Editor           4 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
+Neovim                   1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
 
 💻 Operating System: 
-Linux                    21 hrs 25 mins      █████████████████████████   100.00 % 
+Linux                    19 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 31/03/2026 00:32:43 UTC
+ Last Updated on 01/04/2026 00:44:46 UTC
 <!--END_SECTION:waka-->
