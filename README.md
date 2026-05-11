@@ -25,10 +25,10 @@ I'm always happy to connect with other developers and tech professionals to shar
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                14158 commits       ███████░░░░░░░░░░░░░░░░░░   27.80 % 
-🌆 Daytime                29555 commits       ███████████████░░░░░░░░░░   58.04 % 
-🌃 Evening                6513 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-🌙 Night                  695 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+🌞 Morning                14159 commits       ███████░░░░░░░░░░░░░░░░░░   27.77 % 
+🌆 Daytime                29559 commits       ██████████████░░░░░░░░░░░   57.98 % 
+🌃 Evening                6555 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+🌙 Night                  711 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 ```
 
 
@@ -36,20 +36,21 @@ I'm always happy to connect with other developers and tech professionals to shar
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 19 mins       ██████████████░░░░░░░░░░░   56.24 % 
-Markdown                 3 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   33.99 % 
-Other                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-Prisma                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+TypeScript               2 hrs 2 mins        █████████████████░░░░░░░░   67.75 % 
+CSS                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
 
 🔥 Editors: 
-Unknown Editor           7 hrs 1 min         ███████████████████░░░░░░   74.10 % 
-VS Code                  2 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
+Claude Code              1 hr 4 mins         █████████░░░░░░░░░░░░░░░░   35.92 % 
+VS Code                  1 hr 2 mins         █████████░░░░░░░░░░░░░░░░   34.48 % 
+Unknown Editor           53 mins             ███████░░░░░░░░░░░░░░░░░░   29.60 % 
 
 💻 Operating System: 
-Linux                    9 hrs 28 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs               █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/05/2026 00:46:24 UTC
+ Last Updated on 11/05/2026 00:44:15 UTC
 <!--END_SECTION:waka-->
