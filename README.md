@@ -36,21 +36,21 @@ I'm always happy to connect with other developers and tech professionals to shar
 
 ```text
 💬 Programming Languages: 
-TypeScript               14 hrs 10 mins      ████████████████░░░░░░░░░   62.23 % 
-Markdown                 4 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-Other                    1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-Nix                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-Bash                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+TypeScript               16 hrs 12 mins      ████████████████░░░░░░░░░   64.73 % 
+Markdown                 4 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+Other                    1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Nix                      30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Prisma                   25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 🔥 Editors: 
-Claude Code              16 hrs 45 mins      ██████████████████░░░░░░░   73.58 % 
-VS Code                  5 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
-Neovim                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Claude Code              18 hrs 25 mins      ██████████████████░░░░░░░   73.55 % 
+VS Code                  6 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
+Neovim                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 💻 Operating System: 
-Linux                    22 hrs 47 mins      █████████████████████████   100.00 % 
+Linux                    25 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/05/2026 00:48:07 UTC
+ Last Updated on 24/05/2026 00:48:06 UTC
 <!--END_SECTION:waka-->
