@@ -22,37 +22,6 @@ I'm always happy to connect with other developers and tech professionals to shar
 - CI/CD (GitHub Actions)
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                13985 commits       ███████░░░░░░░░░░░░░░░░░░   27.62 % 
-🌆 Daytime                29000 commits       ██████████████░░░░░░░░░░░   57.28 % 
-🌃 Evening                6630 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-🌙 Night                  1011 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               34 hrs 27 mins      ███████████████░░░░░░░░░░   59.85 % 
-Markdown                 12 hrs 16 mins      █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
-YAML                     1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-JSON                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-Nix                      1 hr 3 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-
-🔥 Editors: 
-Claude Code              39 hrs 40 mins      █████████████████░░░░░░░░   68.92 % 
-VS Code                  15 hrs 43 mins      ███████░░░░░░░░░░░░░░░░░░   27.31 % 
-Neovim                   1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-OpenCode                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-Opencode Cli             15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-
-💻 Operating System: 
-Linux                    57 hrs 34 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 07/06/2026 00:52:26 UTC
+ Last Updated on 08/06/2026 00:54:35 UTC
 <!--END_SECTION:waka-->
