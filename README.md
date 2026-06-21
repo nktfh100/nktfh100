@@ -25,10 +25,10 @@ I'm always happy to connect with other developers and tech professionals to shar
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                14620 commits       ███████░░░░░░░░░░░░░░░░░░   27.64 % 
-🌆 Daytime                30021 commits       ██████████████░░░░░░░░░░░   56.76 % 
-🌃 Evening                7111 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-🌙 Night                  1141 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+🌞 Morning                14616 commits       ███████░░░░░░░░░░░░░░░░░░   27.62 % 
+🌆 Daytime                30024 commits       ██████████████░░░░░░░░░░░   56.75 % 
+🌃 Evening                7127 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+🌙 Night                  1142 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 ```
 
 
@@ -36,22 +36,23 @@ I'm always happy to connect with other developers and tech professionals to shar
 
 ```text
 💬 Programming Languages: 
-TypeScript               30 hrs 11 mins      ███████████████░░░░░░░░░░   58.51 % 
-Markdown                 11 hrs 38 mins      ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
-Nix                      3 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-YAML                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-Prisma                   1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+TypeScript               30 hrs 52 mins      ██████████████░░░░░░░░░░░   56.46 % 
+Markdown                 11 hrs 50 mins      █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
+Nix                      3 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Kotlin                   2 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+JSON                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 
 🔥 Editors: 
-Claude Code              43 hrs 7 mins       █████████████████████░░░░   83.57 % 
-Zed                      4 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-VS Code                  3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-Neovim                   27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Claude Code              46 hrs 11 mins      █████████████████████░░░░   84.49 % 
+Zed                      5 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+VS Code                  1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+OpenCode                 28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Neovim                   26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 💻 Operating System: 
-Linux                    51 hrs 35 mins      █████████████████████████   100.00 % 
+Linux                    54 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/06/2026 00:55:41 UTC
+ Last Updated on 21/06/2026 00:58:55 UTC
 <!--END_SECTION:waka-->
