@@ -36,23 +36,23 @@ I'm always happy to connect with other developers and tech professionals to shar
 
 ```text
 💬 Programming Languages: 
-TypeScript               28 hrs 3 mins       ████████████░░░░░░░░░░░░░   48.40 % 
-Markdown                 13 hrs 21 mins      ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
-Kotlin                   7 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-YAML                     1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-Nix                      1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+TypeScript               22 hrs 38 mins      ███████████░░░░░░░░░░░░░░   44.89 % 
+Markdown                 11 hrs 3 mins       █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+Kotlin                   7 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+YAML                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+HTML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 
 🔥 Editors: 
-Claude Code              48 hrs 46 mins      █████████████████████░░░░   84.16 % 
-VS Code                  6 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-Zed                      2 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-OpenCode                 33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-Neovim                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Claude Code              41 hrs 56 mins      █████████████████████░░░░   83.12 % 
+VS Code                  6 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Zed                      1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+OpenCode                 33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Opencode Cli             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Linux                    57 hrs 57 mins      █████████████████████████   100.00 % 
+Linux                    50 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/06/2026 00:53:19 UTC
+ Last Updated on 27/06/2026 00:50:28 UTC
 <!--END_SECTION:waka-->
