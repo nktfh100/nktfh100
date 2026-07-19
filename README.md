@@ -36,21 +36,21 @@ I'm always happy to connect with other developers and tech professionals to shar
 
 ```text
 💬 Programming Languages: 
-TypeScript               14 hrs 38 mins      ███████████░░░░░░░░░░░░░░   42.75 % 
-Markdown                 10 hrs 45 mins      ████████░░░░░░░░░░░░░░░░░   31.39 % 
-C#                       5 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Lua                      1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-XML                      27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+TypeScript               14 hrs 38 mins      █████████████░░░░░░░░░░░░   50.10 % 
+Markdown                 8 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   30.71 % 
+C#                       4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+XML                      26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🔥 Editors: 
-Claude Code              28 hrs 5 mins       ████████████████████░░░░░   82.00 % 
-VS Code                  6 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+Claude Code              24 hrs 49 mins      █████████████████████░░░░   84.93 % 
+VS Code                  4 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
 
 💻 Operating System: 
-Windows                  20 hrs 46 mins      ███████████████░░░░░░░░░░   60.66 % 
-Linux                    13 hrs 28 mins      ██████████░░░░░░░░░░░░░░░   39.34 % 
+Windows                  15 hrs 44 mins      █████████████░░░░░░░░░░░░   53.89 % 
+Linux                    13 hrs 28 mins      ████████████░░░░░░░░░░░░░   46.11 % 
 ```
 
 
- Last Updated on 18/07/2026 00:38:57 UTC
+ Last Updated on 19/07/2026 00:43:35 UTC
 <!--END_SECTION:waka-->
