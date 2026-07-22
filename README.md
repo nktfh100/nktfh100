@@ -25,10 +25,10 @@ I'm always happy to connect with other developers and tech professionals to shar
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                16774 commits       ███████░░░░░░░░░░░░░░░░░░   27.55 % 
-🌆 Daytime                34198 commits       ██████████████░░░░░░░░░░░   56.17 % 
-🌃 Evening                8497 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-🌙 Night                  1411 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+🌞 Morning                16750 commits       ███████░░░░░░░░░░░░░░░░░░   27.58 % 
+🌆 Daytime                34109 commits       ██████████████░░░░░░░░░░░   56.17 % 
+🌃 Evening                8456 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+🌙 Night                  1413 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 ```
 
 
@@ -36,21 +36,21 @@ I'm always happy to connect with other developers and tech professionals to shar
 
 ```text
 💬 Programming Languages: 
-TypeScript               17 hrs 34 mins      ██████████████░░░░░░░░░░░   57.64 % 
-Markdown                 8 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   28.75 % 
-C#                       2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-XML                      23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-Batchfile                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+TypeScript               14 hrs 45 mins      ██████████████░░░░░░░░░░░   55.79 % 
+Markdown                 7 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   29.05 % 
+C#                       2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+XML                      23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 🔥 Editors: 
-Claude Code              25 hrs 39 mins      █████████████████████░░░░   84.19 % 
-VS Code                  4 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Claude Code              22 hrs 3 mins       █████████████████████░░░░   83.42 % 
+VS Code                  4 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
 
 💻 Operating System: 
-Linux                    18 hrs 52 mins      ███████████████░░░░░░░░░░   61.92 % 
-Windows                  11 hrs 36 mins      ██████████░░░░░░░░░░░░░░░   38.08 % 
+Linux                    19 hrs 44 mins      ███████████████████░░░░░░   74.62 % 
+Windows                  6 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
 ```
 
 
- Last Updated on 21/07/2026 00:42:02 UTC
+ Last Updated on 22/07/2026 00:41:12 UTC
 <!--END_SECTION:waka-->
