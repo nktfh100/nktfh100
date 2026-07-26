@@ -22,6 +22,36 @@ I'm always happy to connect with other developers and tech professionals to shar
 - CI/CD (GitHub Actions)
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
 
- Last Updated on 25/07/2026 00:47:11 UTC
+```text
+🌞 Morning                17490 commits       ███████░░░░░░░░░░░░░░░░░░   27.66 % 
+🌆 Daytime                35600 commits       ██████████████░░░░░░░░░░░   56.30 % 
+🌃 Evening                8705 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+🌙 Night                  1435 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               15 hrs 53 mins      █████████████████░░░░░░░░   69.99 % 
+Markdown                 4 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+Prisma                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+SQL                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Other                    24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+
+🔥 Editors: 
+Claude Code              18 hrs 49 mins      █████████████████████░░░░   82.85 % 
+VS Code                  3 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+💻 Operating System: 
+Linux                    22 hrs 32 mins      █████████████████████████   99.25 % 
+Windows                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+```
+
+
+ Last Updated on 26/07/2026 00:45:09 UTC
 <!--END_SECTION:waka-->
