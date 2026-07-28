@@ -22,13 +22,15 @@ I'm always happy to connect with other developers and tech professionals to shar
 - CI/CD (GitHub Actions)
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-536%20hrs%2041%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                17047 commits       ███████░░░░░░░░░░░░░░░░░░   27.54 % 
-🌆 Daytime                34778 commits       ██████████████░░░░░░░░░░░   56.19 % 
-🌃 Evening                8641 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-🌙 Night                  1431 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+🌞 Morning                16366 commits       ███████░░░░░░░░░░░░░░░░░░   27.48 % 
+🌆 Daytime                33308 commits       ██████████████░░░░░░░░░░░   55.92 % 
+🌃 Evening                8452 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+🌙 Night                  1439 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 ```
 
 
@@ -36,22 +38,47 @@ I'm always happy to connect with other developers and tech professionals to shar
 
 ```text
 💬 Programming Languages: 
-TypeScript               14 hrs 29 mins      ████████████████░░░░░░░░░   64.15 % 
-Markdown                 5 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
-C#                       41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-Prisma                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-SQL                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+TypeScript               10 hrs 21 mins      ██████████████░░░░░░░░░░░   55.90 % 
+Markdown                 4 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
+C#                       41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Prisma                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 
 🔥 Editors: 
-Claude Code              18 hrs 44 mins      █████████████████████░░░░   82.98 % 
-VS Code                  3 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Claude Code              15 hrs 15 mins      █████████████████████░░░░   82.41 % 
+VS Code                  3 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Linux                    20 hrs 57 mins      ███████████████████████░░   92.74 % 
-Windows                  1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Linux                    16 hrs 52 mins      ███████████████████████░░   91.14 % 
+Windows                  1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 17 hrs 8 mins (92.53%)
+
+✍️ 11,130 lines written by AI, 47 lines written by hand (99.58% AI-written)
+
+🔤 269,950,834 Input Tokens, 1,603,400 Output Tokens
+
+💵 $1233.62 Estimated AI Cost This Week
+
+🧠 60 AI Sessions, 279 AI Prompts
+
+Opus                     9,763 lines         ███████████████████░░░░░░   76.70 % 
+Fable                    2,420 lines         █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+Sonnet                   546 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.58% of written lines came from AI
+📝 Concise Prompter — average 427 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 1.02% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/07/2026 00:44:55 UTC
+ Last Updated on 28/07/2026 00:43:11 UTC
 <!--END_SECTION:waka-->
