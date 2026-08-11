@@ -22,13 +22,13 @@ I'm always happy to connect with other developers and tech professionals to shar
 - CI/CD (GitHub Actions)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-578%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-587%20hrs%203%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                16258 commits       ███████░░░░░░░░░░░░░░░░░░   26.85 % 
-🌆 Daytime                33363 commits       ██████████████░░░░░░░░░░░   55.11 % 
+🌞 Morning                16268 commits       ███████░░░░░░░░░░░░░░░░░░   26.86 % 
+🌆 Daytime                33369 commits       ██████████████░░░░░░░░░░░   55.10 % 
 🌃 Evening                9223 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
 🌙 Night                  1696 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 ```
@@ -38,48 +38,47 @@ I'm always happy to connect with other developers and tech professionals to shar
 
 ```text
 💬 Programming Languages: 
-Markdown                 12 hrs 25 mins      ██████████░░░░░░░░░░░░░░░   38.22 % 
-Java                     6 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-TypeScript               4 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-JSON                     2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-Go                       1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Markdown                 13 hrs 44 mins      ███████████░░░░░░░░░░░░░░   45.31 % 
+Java                     6 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
+JSON                     2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+TypeScript               2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Go                       53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 
 🔥 Editors: 
-Claude Code              26 hrs 51 mins      █████████████████████░░░░   82.60 % 
-VS Code                  5 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-OpenCode                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Claude Code              24 hrs 56 mins      █████████████████████░░░░   82.16 % 
+VS Code                  5 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
 
 💻 Operating System: 
-Windows                  21 hrs 18 mins      ████████████████░░░░░░░░░   65.54 % 
-Linux                    11 hrs 12 mins      █████████░░░░░░░░░░░░░░░░   34.46 % 
+Windows                  23 hrs 44 mins      ████████████████████░░░░░   78.24 % 
+Linux                    6 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 48 mins (94.75%)
+⏱ AI Coding Time: 28 hrs 40 mins (94.51%)
 
-✍️ 11,270 lines written by AI, 33 lines written by hand (99.71% AI-written)
+✍️ 8,223 lines written by AI, 25 lines written by hand (99.7% AI-written)
 
-🔤 673,009,242 Input Tokens, 3,391,538 Output Tokens
+🔤 551,581,360 Input Tokens, 2,943,359 Output Tokens
 
-💵 $3397.79 Estimated AI Cost This Week
+💵 $2727.02 Estimated AI Cost This Week
 
-🧠 121 AI Sessions, 524 AI Prompts
+🧠 121 AI Sessions, 467 AI Prompts
 
-Opus                     10,558 lines        █████████████████████░░░░   84.04 % 
-Fable                    1,120 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-Deepseek                 818 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-Opencode-Cli             58 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-Sonnet                   9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Opus                     6,942 lines         ███████████████████░░░░░░   74.45 % 
+Fable                    1,611 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+Deepseek                 762 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+Sonnet                   9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.71% of written lines came from AI
-📝 Concise Prompter — average 439 characters per prompt
+🤖 AI-Driven — 99.7% of written lines came from AI
+📝 Concise Prompter — average 480 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 3.32% of changed lines were hand-edited
+🚀 High AI Trust — 4.35% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/08/2026 01:30:28 UTC
+ Last Updated on 11/08/2026 01:32:11 UTC
 <!--END_SECTION:waka-->
