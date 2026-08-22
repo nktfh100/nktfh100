@@ -38,47 +38,47 @@ I'm always happy to connect with other developers and tech professionals to shar
 
 ```text
 💬 Programming Languages: 
-Markdown                 9 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   37.09 % 
-Python                   3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-GDScript3                2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-XML                      2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-C++                      1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+Markdown                 5 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   26.01 % 
+Python                   5 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
+GDScript3                2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+XML                      1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+C++                      1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
 
 🔥 Editors: 
-Claude Code              23 hrs 43 mins      ████████████████████████░   96.56 % 
-VS Code                  50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude Code              21 hrs 8 mins       ████████████████████████░   97.07 % 
+VS Code                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  23 hrs 30 mins      ████████████████████████░   95.68 % 
-Linux                    1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+Windows                  18 hrs 24 mins      █████████████████████░░░░   84.48 % 
+Linux                    3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 25 mins (99.46%)
+⏱ AI Coding Time: 21 hrs 43 mins (99.74%)
 
-✍️ 22,435 lines written by AI, 1 lines written by hand (100.0% AI-written)
+✍️ 23,277 lines written by AI, 1 lines written by hand (100.0% AI-written)
 
-🔤 17,410,567 Input Tokens, 4,305,779 Output Tokens
+🔤 13,751,438 Input Tokens, 3,484,787 Output Tokens
 
-💵 $827.14 Estimated AI Cost This Week
+💵 $682.47 Estimated AI Cost This Week
 
-🧠 74 AI Sessions, 314 AI Prompts
+🧠 66 AI Sessions, 287 AI Prompts
 
-Opus                     21,445 lines        ███████████████████████░░   91.13 % 
-Fable                    1,894 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-Sonnet                   194 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Opus                     22,717 lines        ███████████████████████░░   92.33 % 
+Fable                    1,692 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Sonnet                   194 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 362 characters per prompt
+📝 Concise Prompter — average 382 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.09% of changed lines were hand-edited
+🚀 High AI Trust — 0.08% of changed lines were hand-edited
 ```
 
 
- Last Updated on 21/08/2026 01:13:53 UTC
+ Last Updated on 22/08/2026 01:07:52 UTC
 <!--END_SECTION:waka-->
