@@ -22,13 +22,13 @@ I'm always happy to connect with other developers and tech professionals to shar
 - CI/CD (GitHub Actions)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-632%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-632%20hrs%2033%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                17117 commits       ███████░░░░░░░░░░░░░░░░░░   27.29 % 
-🌆 Daytime                34764 commits       ██████████████░░░░░░░░░░░   55.43 % 
+🌆 Daytime                34767 commits       ██████████████░░░░░░░░░░░   55.43 % 
 🌃 Evening                9174 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
 🌙 Night                  1664 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 ```
@@ -38,46 +38,42 @@ I'm always happy to connect with other developers and tech professionals to shar
 
 ```text
 💬 Programming Languages: 
-Other                    5 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   34.19 % 
-Python                   3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-Markdown                 2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-GDScript3                2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Godot Resource           1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Other                    5 hrs 16 mins       ████████████████░░░░░░░░░   64.39 % 
+Python                   2 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   29.00 % 
+Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Godot Resource           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🔥 Editors: 
-Claude Code              16 hrs 24 mins      █████████████████████████   99.74 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Claude Code              8 hrs 11 mins       █████████████████████████   99.99 % 
 Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  8 hrs 17 mins       █████████████░░░░░░░░░░░░   50.38 % 
-Linux                    8 hrs 9 mins        ████████████░░░░░░░░░░░░░   49.62 % 
+Linux                    8 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 26 mins (99.94%)
+⏱ AI Coding Time: 8 hrs 11 mins (99.99%)
 
-✍️ 9,146 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,436 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 6,672,044 Input Tokens, 1,527,926 Output Tokens
+🔤 618,553 Input Tokens, 260,749 Output Tokens
 
-💵 $334.97 Estimated AI Cost This Week
+💵 $38.52 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 233 AI Prompts
+🧠 18 AI Sessions, 121 AI Prompts
 
-Opus                     9,776 lines         █████████████████████████   99.92 % 
-Sonnet                   8 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     2,212 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 445 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.05% of changed lines were hand-edited
+📝 Concise Prompter — average 458 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/08/2026 01:14:16 UTC
+ Last Updated on 24/08/2026 01:10:17 UTC
 <!--END_SECTION:waka-->
