@@ -22,15 +22,13 @@ I'm always happy to connect with other developers and tech professionals to shar
 - CI/CD (GitHub Actions)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-632%20hrs%2033%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                17117 commits       ███████░░░░░░░░░░░░░░░░░░   27.29 % 
-🌆 Daytime                34767 commits       ██████████████░░░░░░░░░░░   55.43 % 
-🌃 Evening                9174 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-🌙 Night                  1664 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+🌆 Daytime                34769 commits       ██████████████░░░░░░░░░░░   55.43 % 
+🌃 Evening                9177 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+🌙 Night                  1665 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 ```
 
 
@@ -38,42 +36,40 @@ I'm always happy to connect with other developers and tech professionals to shar
 
 ```text
 💬 Programming Languages: 
-Other                    5 hrs 16 mins       ████████████████░░░░░░░░░   64.39 % 
-Python                   2 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   29.00 % 
-Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-Godot Resource           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Other                    5 hrs 13 mins       █████████████████░░░░░░░░   67.74 % 
+Python                   2 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   30.80 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Nix                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 11 mins       █████████████████████████   99.99 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Claude Code              7 hrs 42 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    8 hrs 11 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 11 mins (99.99%)
+⏱ AI Coding Time: 7 hrs 42 mins (100.0%)
 
-✍️ 1,436 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,213 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 618,553 Input Tokens, 260,749 Output Tokens
+🔤 585,685 Input Tokens, 237,071 Output Tokens
 
-💵 $38.52 Estimated AI Cost This Week
+💵 $32.43 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 121 AI Prompts
+🧠 14 AI Sessions, 114 AI Prompts
 
-Opus                     2,212 lines         █████████████████████████   100.00 % 
+Opus                     1,528 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 458 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📝 Concise Prompter — average 481 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/08/2026 01:10:17 UTC
+ Last Updated on 25/08/2026 01:09:56 UTC
 <!--END_SECTION:waka-->
