@@ -27,10 +27,10 @@ I'm always happy to connect with other developers and tech professionals to shar
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                19611 commits       ███████░░░░░░░░░░░░░░░░░░   28.66 % 
-🌆 Daytime                38972 commits       ██████████████░░░░░░░░░░░   56.95 % 
-🌃 Evening                8367 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-🌙 Night                  1486 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+🌞 Morning                19244 commits       ███████░░░░░░░░░░░░░░░░░░   28.60 % 
+🌆 Daytime                38254 commits       ██████████████░░░░░░░░░░░   56.86 % 
+🌃 Evening                8298 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+🌙 Night                  1484 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 ```
 
 
@@ -38,47 +38,46 @@ I'm always happy to connect with other developers and tech professionals to shar
 
 ```text
 💬 Programming Languages: 
-TypeScript               12 hrs 24 mins      ███████████░░░░░░░░░░░░░░   44.16 % 
-Other                    6 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
-Markdown                 5 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-JavaScript               51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-Text                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+TypeScript               11 hrs 9 mins       ███████████░░░░░░░░░░░░░░   45.32 % 
+Other                    7 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   29.66 % 
+Markdown                 3 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+HTML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+JavaScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 
 🔥 Editors: 
-Claude Code              23 hrs 58 mins      █████████████████████░░░░   85.37 % 
-VS Code                  3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Godot                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-Neovim                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Claude Code              20 hrs 20 mins      █████████████████████░░░░   82.64 % 
+VS Code                  3 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Godot                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 💻 Operating System: 
-Linux                    27 hrs 43 mins      █████████████████████████   98.73 % 
-Windows                  21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Linux                    24 hrs 16 mins      █████████████████████████   98.56 % 
+Windows                  21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 22 mins (93.91%)
+⏱ AI Coding Time: 23 hrs 1 min (93.48%)
 
-✍️ 8,479 lines written by AI, 318 lines written by hand (96.39% AI-written)
+✍️ 9,666 lines written by AI, 313 lines written by hand (96.86% AI-written)
 
-🔤 10,054,637 Input Tokens, 1,795,501 Output Tokens
+🔤 8,367,700 Input Tokens, 1,455,254 Output Tokens
 
-💵 $319.02 Estimated AI Cost This Week
+💵 $278.59 Estimated AI Cost This Week
 
-🧠 90 AI Sessions, 572 AI Prompts
+🧠 78 AI Sessions, 472 AI Prompts
 
-Opus                     7,147 lines         ███████████████████░░░░░░   77.74 % 
-Fable                    2,046 lines         ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+Opus                     6,219 lines         ███████████████░░░░░░░░░░   60.02 % 
+Fable                    4,143 lines         ██████████░░░░░░░░░░░░░░░   39.98 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.39% of written lines came from AI
-📄 Detailed Prompter — average 1,157 characters per prompt
+🤖 AI-Driven — 96.86% of written lines came from AI
+📄 Detailed Prompter — average 760 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 6.38% of changed lines were hand-edited
+🚀 High AI Trust — 5.62% of changed lines were hand-edited
 ```
 
 
- Last Updated on 07/09/2026 02:43:17 UTC
+ Last Updated on 08/09/2026 02:56:29 UTC
 <!--END_SECTION:waka-->
