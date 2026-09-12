@@ -22,15 +22,15 @@ I'm always happy to connect with other developers and tech professionals to shar
 - CI/CD (GitHub Actions)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-692%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-694%20hrs%2057%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                19178 commits       ███████░░░░░░░░░░░░░░░░░░   28.43 % 
-🌆 Daytime                38272 commits       ██████████████░░░░░░░░░░░   56.74 % 
-🌃 Evening                8488 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-🌙 Night                  1512 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+🌞 Morning                19178 commits       ███████░░░░░░░░░░░░░░░░░░   28.46 % 
+🌆 Daytime                38263 commits       ██████████████░░░░░░░░░░░   56.78 % 
+🌃 Evening                8446 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+🌙 Night                  1496 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 
 
@@ -38,45 +38,45 @@ I'm always happy to connect with other developers and tech professionals to shar
 
 ```text
 💬 Programming Languages: 
-Markdown                 9 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   36.09 % 
-TypeScript               9 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   35.68 % 
-Other                    4 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-HTML                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-JavaScript               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Markdown                 7 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   34.93 % 
+TypeScript               7 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   34.39 % 
+Other                    4 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+JavaScript               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+GDScript3                16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 🔥 Editors: 
-Claude Code              19 hrs 12 mins      ███████████████████░░░░░░   75.78 % 
-VS Code                  6 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
+Claude Code              16 hrs 36 mins      ███████████████████░░░░░░   75.90 % 
+VS Code                  5 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
 Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Linux                    25 hrs 20 mins      █████████████████████████   100.00 % 
+Linux                    21 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 14 mins (91.68%)
+⏱ AI Coding Time: 20 hrs 16 mins (92.7%)
 
-✍️ 29,563 lines written by AI, 327 lines written by hand (98.91% AI-written)
+✍️ 15,823 lines written by AI, 305 lines written by hand (98.11% AI-written)
 
-🔤 41,201,542 Input Tokens, 6,163,734 Output Tokens
+🔤 28,794,154 Input Tokens, 4,787,981 Output Tokens
 
-💵 $1122.28 Estimated AI Cost This Week
+💵 $813.61 Estimated AI Cost This Week
 
-🧠 113 AI Sessions, 1136 AI Prompts
+🧠 110 AI Sessions, 841 AI Prompts
 
-Opus                     16,971 lines        ██████████████░░░░░░░░░░░   55.24 % 
-Sonnet                   8,423 lines         ███████░░░░░░░░░░░░░░░░░░   27.42 % 
-Fable                    5,329 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+Sonnet                   8,423 lines         █████████████░░░░░░░░░░░░   52.93 % 
+Fable                    4,169 lines         ███████░░░░░░░░░░░░░░░░░░   26.20 % 
+Opus                     3,322 lines         █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.91% of written lines came from AI
-📄 Detailed Prompter — average 1,055 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 6.18% of changed lines were hand-edited
+🤖 AI-Driven — 98.11% of written lines came from AI
+📝 Concise Prompter — average 345 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 11.05% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/09/2026 02:55:36 UTC
+ Last Updated on 12/09/2026 03:02:02 UTC
 <!--END_SECTION:waka-->
