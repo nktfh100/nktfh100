@@ -27,10 +27,10 @@ I'm always happy to connect with other developers and tech professionals to shar
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                19154 commits       ███████░░░░░░░░░░░░░░░░░░   28.64 % 
-🌆 Daytime                38068 commits       ██████████████░░░░░░░░░░░   56.92 % 
-🌃 Evening                8192 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-🌙 Night                  1466 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+🌞 Morning                19024 commits       ███████░░░░░░░░░░░░░░░░░░   28.64 % 
+🌆 Daytime                37787 commits       ██████████████░░░░░░░░░░░   56.88 % 
+🌃 Evening                8155 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+🌙 Night                  1466 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 ```
 
 
@@ -38,45 +38,45 @@ I'm always happy to connect with other developers and tech professionals to shar
 
 ```text
 💬 Programming Languages: 
-TypeScript               10 hrs 42 mins      █████████████░░░░░░░░░░░░   50.24 % 
-Markdown                 6 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   32.80 % 
-Other                    1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-HTML                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-GDScript3                16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+TypeScript               10 hrs 58 mins      ████████████░░░░░░░░░░░░░   47.71 % 
+Markdown                 6 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   26.75 % 
+Other                    4 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+HTML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+SQL                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 32 mins      ██████████████████░░░░░░░   72.88 % 
-VS Code                  5 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   27.12 % 
+Claude Code              16 hrs 57 mins      ██████████████████░░░░░░░   73.68 % 
+VS Code                  6 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   26.32 % 
 Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Linux                    21 hrs 19 mins      █████████████████████████   100.00 % 
+Linux                    23 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 10 mins (89.9%)
+⏱ AI Coding Time: 20 hrs 41 mins (89.89%)
 
-✍️ 14,475 lines written by AI, 415 lines written by hand (97.21% AI-written)
+✍️ 13,579 lines written by AI, 398 lines written by hand (97.15% AI-written)
 
-🔤 26,188,657 Input Tokens, 3,906,813 Output Tokens
+🔤 23,278,751 Input Tokens, 2,953,149 Output Tokens
 
-💵 $673.76 Estimated AI Cost This Week
+💵 $518.78 Estimated AI Cost This Week
 
-🧠 107 AI Sessions, 747 AI Prompts
+🧠 117 AI Sessions, 650 AI Prompts
 
-Sonnet                   8,423 lines         ██████████████░░░░░░░░░░░   56.24 % 
-Opus                     6,186 lines         ██████████░░░░░░░░░░░░░░░   41.30 % 
-Fable                    369 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Sonnet                   8,423 lines         ███████████████░░░░░░░░░░   60.12 % 
+Opus                     5,218 lines         █████████░░░░░░░░░░░░░░░░   37.24 % 
+Fable                    369 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.21% of written lines came from AI
-📝 Concise Prompter — average 347 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 12.62% of changed lines were hand-edited
+🤖 AI-Driven — 97.15% of written lines came from AI
+📝 Concise Prompter — average 368 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 13.16% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/09/2026 03:15:48 UTC
+ Last Updated on 16/09/2026 03:14:47 UTC
 <!--END_SECTION:waka-->
