@@ -22,15 +22,15 @@ I'm always happy to connect with other developers and tech professionals to shar
 - CI/CD (GitHub Actions)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-797%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-808%20hrs%2011%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                19235 commits       ███████░░░░░░░░░░░░░░░░░░   28.28 % 
-🌆 Daytime                38496 commits       ██████████████░░░░░░░░░░░   56.60 % 
-🌃 Evening                8721 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-🌙 Night                  1559 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+🌞 Morning                19238 commits       ███████░░░░░░░░░░░░░░░░░░   28.26 % 
+🌆 Daytime                38523 commits       ██████████████░░░░░░░░░░░   56.58 % 
+🌃 Evening                8758 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+🌙 Night                  1565 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 ```
 
 
@@ -38,45 +38,45 @@ I'm always happy to connect with other developers and tech professionals to shar
 
 ```text
 💬 Programming Languages: 
-Markdown                 12 hrs 29 mins      █████████████░░░░░░░░░░░░   50.56 % 
-TypeScript               5 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
-Other                    2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-HTML                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-Python                   54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Markdown                 8 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   29.93 % 
+Nix                      3 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+TypeScript               3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Other                    2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+QML                      2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
 
 🔥 Editors: 
-Codex CLI                14 hrs 52 mins      ███████████████░░░░░░░░░░   60.19 % 
-VS Code                  5 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
-Codex Vscode             4 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Codex Vscode             10 hrs 33 mins      ██████████░░░░░░░░░░░░░░░   39.37 % 
+Codex CLI                9 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   37.29 % 
+VS Code                  6 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
 
 💻 Operating System: 
-Linux                    24 hrs 42 mins      █████████████████████████   100.00 % 
+Linux                    26 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 55 mins (96.81%)
+⏱ AI Coding Time: 26 hrs 18 mins (98.14%)
 
-✍️ 4,088 lines written by AI, 64 lines written by hand (98.46% AI-written)
+✍️ 5,535 lines written by AI, 30 lines written by hand (99.46% AI-written)
 
-🔤 11,871,402 Input Tokens, 1,280,816 Output Tokens
+🔤 15,586,837 Input Tokens, 2,140,124 Output Tokens
 
-💵 $194.97 Estimated AI Cost This Week
+💵 $608.30 Estimated AI Cost This Week
 
-🧠 153 AI Sessions, 418 AI Prompts
+🧠 141 AI Sessions, 378 AI Prompts
 
-GPT                      4,286 lines         ████████████████████████░   95.93 % 
-Codex-Vscode             127 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-Codex-Cli                55 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+GPT                      5,986 lines         ████████████████████████░   97.54 % 
+Codex-Vscode             148 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Codex-Cli                3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.46% of written lines came from AI
-📚 Verbose Prompter — average 1,624 characters per prompt
+🤖 AI-Driven — 99.46% of written lines came from AI
+📚 Verbose Prompter — average 1,789 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 7.44% of changed lines were hand-edited
+🚀 High AI Trust — 5.58% of changed lines were hand-edited
 ```
 
 
- Last Updated on 03/10/2026 03:41:10 UTC
+ Last Updated on 04/10/2026 04:08:24 UTC
 <!--END_SECTION:waka-->
