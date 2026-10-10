@@ -29,8 +29,8 @@ I'm always happy to connect with other developers and tech professionals to shar
 ```text
 🌞 Morning                19747 commits       ███████░░░░░░░░░░░░░░░░░░   28.43 % 
 🌆 Daytime                39488 commits       ██████████████░░░░░░░░░░░   56.86 % 
-🌃 Evening                8685 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-🌙 Night                  1530 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+🌃 Evening                8686 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+🌙 Night                  1531 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 ```
 
 
@@ -38,45 +38,46 @@ I'm always happy to connect with other developers and tech professionals to shar
 
 ```text
 💬 Programming Languages: 
-Other                    6 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-Markdown                 6 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-Nix                      5 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-TypeScript               4 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-JavaScript               3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+TypeScript               11 hrs 47 mins      ███████░░░░░░░░░░░░░░░░░░   26.43 % 
+Other                    7 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+Markdown                 5 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Nix                      4 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+JavaScript               3 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
 
 🔥 Editors: 
-Codex Vscode             29 hrs 11 mins      ██████████████████░░░░░░░   73.47 % 
-VS Code                  5 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Codex CLI                4 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Codex Vscode             34 hrs 27 mins      ███████████████████░░░░░░   77.27 % 
+VS Code                  4 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Codex CLI                4 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+Neovim                   27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 💻 Operating System: 
-Linux                    39 hrs 43 mins      █████████████████████████   100.00 % 
+Linux                    44 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 hrs 59 mins (95.63%)
+⏱ AI Coding Time: 42 hrs 55 mins (96.27%)
 
-✍️ 14,654 lines written by AI, 149 lines written by hand (98.99% AI-written)
+✍️ 18,224 lines written by AI, 142 lines written by hand (99.23% AI-written)
 
-🔤 28,990,421 Input Tokens, 3,950,439 Output Tokens
+🔤 30,009,625 Input Tokens, 4,271,240 Output Tokens
 
-💵 $808.89 Estimated AI Cost This Week
+💵 $798.27 Estimated AI Cost This Week
 
-🧠 176 AI Sessions, 885 AI Prompts
+🧠 177 AI Sessions, 867 AI Prompts
 
-GPT                      16,169 lines        █████████████████████████   99.87 % 
-Codex-Vscode             21 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+GPT                      20,024 lines        █████████████████████████   99.90 % 
+Codex-Vscode             21 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.99% of written lines came from AI
-📄 Detailed Prompter — average 1,142 characters per prompt
+🤖 AI-Driven — 99.23% of written lines came from AI
+📄 Detailed Prompter — average 985 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 2.72% of changed lines were hand-edited
+🚀 High AI Trust — 1.46% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/10/2026 04:27:23 UTC
+ Last Updated on 10/10/2026 04:13:37 UTC
 <!--END_SECTION:waka-->
