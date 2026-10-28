@@ -9,6 +9,9 @@ Outside of work, I like building side projects, exploring new technologies, and 
 
 I'm always happy to connect with other developers and tech professionals to share ideas, learn from others, and explore new opportunities.
 
+## Projects 🛠️
+- [NoteSpark](https://notespark.malachi.io/) 🎹 - A free web app for learning and practicing piano
+
 ## Skills 🎓
 - JavaScript & TypeScript 💎
 - Node.js 🚀
