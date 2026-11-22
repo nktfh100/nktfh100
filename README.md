@@ -31,47 +31,47 @@ I'm always happy to connect with other developers and tech professionals to shar
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
-Markdown                 3 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-Other                    3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-JavaScript               2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-JSON                     2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+TypeScript               5 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+Markdown                 3 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+JSON                     2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+YAML                     2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Other                    1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
 
 🔥 Editors: 
-Claude Code              21 hrs 38 mins      ████████████████████████░   97.22 % 
-Opencode Cli             23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Claude Code              18 hrs 43 mins      ████████████████████████░   96.80 % 
+Opencode Cli             23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 💻 Operating System: 
-Linux                    22 hrs 15 mins      █████████████████████████   100.00 % 
+Linux                    19 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 5 mins (99.25%)
+⏱ AI Coding Time: 19 hrs 10 mins (99.14%)
 
-✍️ 15,608 lines written by AI, 8 lines written by hand (99.95% AI-written)
+✍️ 14,445 lines written by AI, 8 lines written by hand (99.94% AI-written)
 
-🔤 8,281,410 Input Tokens, 2,312,737 Output Tokens
+🔤 7,573,149 Input Tokens, 1,936,149 Output Tokens
 
-💵 $191.44 Estimated AI Cost This Week
+💵 $175.39 Estimated AI Cost This Week
 
-🧠 100 AI Sessions, 550 AI Prompts
+🧠 96 AI Sessions, 505 AI Prompts
 
-Opus                     16,639 lines        ███████████████████████░░   92.26 % 
-Fable                    1,396 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Opus                     15,430 lines        ███████████████████████░░   91.70 % 
+Fable                    1,396 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.95% of written lines came from AI
-📄 Detailed Prompter — average 1,024 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+🤖 AI-Driven — 99.94% of written lines came from AI
+📄 Detailed Prompter — average 1,093 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.06% of changed lines were hand-edited
 ```
 
 
- Last Updated on 21/11/2026 05:17:12 UTC
+ Last Updated on 22/11/2026 04:43:37 UTC
 <!--END_SECTION:waka-->
